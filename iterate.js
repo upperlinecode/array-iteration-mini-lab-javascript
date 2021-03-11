@@ -1,5 +1,5 @@
 # Here's an array of all of Alex's favorite foods.
-const favorite_foods = {"Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca fries", "Apple pie", "Katsu curry", "Shrimp and grits", "Waffles"}
+const favorite_foods = ["Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca fries", "Apple pie", "Katsu curry", "Shrimp and grits", "Waffles"]
 
 # 1. For each food in the array, print out a statement that says "I really love _____" and then fill in the blank with each.
 
@@ -17,7 +17,7 @@ const favorite_foods = {"Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca frie
 # For example, print out "Alex's #1 favorite food is Sushi" and then "Alex's #2 favorite food is Pizza" and so on until you've made an ordered list.
 # To start, you can copy-paste this line as many times as you need, and make small adjustments:
 #
-# print("Alex's #" + str(1) + " favorite food is " + favorite_foods[0])
+# console.log("Alex's #" + (1).toString() + " favorite food is " + favorite_foods[0])
 
 
 
@@ -28,7 +28,7 @@ const favorite_foods = {"Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca frie
 
 
 # 4. Below is a massive array of numbers. Iterate over the array and print out only the numbers less than 100.
-const many_numbers = {109, 141, 44, 51, 133, 366, 339, 248, 226, 321, 97, 195, 245, 252, 238, 1, 366, 47, 189, 91, 148, 88, 194, 106, 5, 128, 165, 337, 380, 181, 143, 95}
+const many_numbers = [109, 141, 44, 51, 133, 366, 339, 248, 226, 321, 97, 195, 245, 252, 238, 1, 366, 47, 189, 91, 148, 88, 194, 106, 5, 128, 165, 337, 380, 181, 143, 95]
 
 
 
@@ -37,10 +37,10 @@ const many_numbers = {109, 141, 44, 51, 133, 366, 339, 248, 226, 321, 97, 195, 2
 
 
 # 6. Below is an array of 99 names. Iterate over them all and print out only the names that include the letter "a".
-const many_names = {"Alexa","Burke","Kasimir","Baxter","Carissa","Vielka","Derek","Jemima","Jackson","Keegan","Graham","Melissa","Jeanette","Grant","Kirsten","Naida","Brody","Ishmael","Kane","Seth","Rae","Eagan","Camille","Alana",
+const many_names = ["Alexa","Burke","Kasimir","Baxter","Carissa","Vielka","Derek","Jemima","Jackson","Keegan","Graham","Melissa","Jeanette","Grant","Kirsten","Naida","Brody","Ishmael","Kane","Seth","Rae","Eagan","Camille","Alana",
   "Vance","Melinda","Tarik","Risa","Jordan","Camilla","Karly","Baker","Adena","Calvin","Kendall","Nasim","Kellie","Dana","Rhoda","Linus","Tyler","Ahmed","Dante","Shay","Lael","Tana","Claudia","Chadwick","Tara",
   "Fulton","Justine","Malcolm","Rowan","Christopher","Ciaran","Ivan","Hiram","Blake","Colton","Nathaniel","Moses","Cynthia","George","Ignacia","Chanda","Wyatt","Amethyst","Vladimir","Adam","Boris","Joseph","Scarlett","Kieran","Curran",
-  "Dalton","Paul","Phillip","Plato","Renee","Natalie","Barbara","Keiko","Oleg","Xerxes","Caesar","Kareem","Ahmed","Charles","Cyrus","Adria","Winifred","Pandora","Wynne","Simon","Wanda","Coby","Nolan","Marsden","Courtney"}
+  "Dalton","Paul","Phillip","Plato","Renee","Natalie","Barbara","Keiko","Oleg","Xerxes","Caesar","Kareem","Ahmed","Charles","Cyrus","Adria","Winifred","Pandora","Wynne","Simon","Wanda","Coby","Nolan","Marsden","Courtney"]
 
 
 
