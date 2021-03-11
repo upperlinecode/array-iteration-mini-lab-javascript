@@ -1,6 +1,6 @@
 # Iteration
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-iteration-mini-lab-python)](https://repl.it/github/upperlinecode/list-iteration-mini-lab-python)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-iteration-mini-lab-javascript)](https://repl.it/github/upperlinecode/list-iteration-mini-lab-javascript)
 
 ## TL;DR
 
